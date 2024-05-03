@@ -1,4 +1,5 @@
-# Gesture Recognition using 3D CNN model
+# Gesture Recognition using 3D CNN model, 2D CNN + RNN model ans transfer learning using RESNET50
+
 In this group project, We are going to build a 2D CNN + RNN model that will be able to predict the 5 gestures correctly. 
 
 ## 3D CNN model
